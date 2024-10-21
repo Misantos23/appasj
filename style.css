@@ -1,0 +1,16 @@
+header {
+    text-aling: center;
+    margin-botton: 20px;
+    animation: fadeInHeader 2s ease-in-out;
+}
+
+h1 {
+    font-size: 24px;
+    color:#fff;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    garp:20px;
+}
